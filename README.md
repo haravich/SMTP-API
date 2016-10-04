@@ -5,7 +5,7 @@ I have a solution designed for you.
 
 # API
 
-API is the solution, we run our API as a web service. By sending the JSON data to our API's we can send the emails from our Mail Server and that too with authentication.
+API is the way we can have interfacing with our Mail Server, we run our API as a web service. By sending the JSON data to our API's we can send the emails from our Mail Server and that too with authentication.
 
 # Interesting isn't it?
 
