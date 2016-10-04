@@ -23,3 +23,5 @@ If external users wants to connect to SMTP server, we can open SMTP port in our 
 
 Our solution is to allow external users or external networks to send e-mail from our mail server. Here, we are not exposing the SMTP Port. We run as Web service. To make it more secure, we use HTTP over SSL (HTTPS). We need a backend DB to store user information for authentication. Once the user is authorized, the user should send mail in 60 seconds, else authorized token expires. We need to re-authenticate for sending mails.
 All mails originate from our local network, eventhough user is from external network.
+
+![](External-Mail.png)
