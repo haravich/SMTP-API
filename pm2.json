@@ -1,0 +1,8 @@
+{
+  "name" : "mailbot",
+  "script" : "/root/server.js",
+  "out_file" : "/root/log/mailbot.log",
+  "error_file" : "/var/log/mailbot.error.log",
+  "log_date_format" : "YYYY-MM-DD HH:mm Z"
+}
+
