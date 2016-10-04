@@ -10,3 +10,5 @@ Using the API interfacing with our Mail Server, We can build our Solution. We ar
 # Interesting isn't it?
 
 The solution is compraised Postfix, Nodejs and MongoDB. The installation process is tested in Ubuntu 14.04 LTS.
+
+![]({{site.baseurl}}//Mail.png)
